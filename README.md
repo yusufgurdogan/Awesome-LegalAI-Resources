@@ -309,6 +309,8 @@ of over 43,000 Chinese criminal judgements.
 
 - http://www.worldlii.org/: a free and independent global legal research resource, aggregating legal materials from various countries and regions.
 
+- https://ezel.ai/: US legal templates, case law and administrative decision search, and AI document drafting, with a free resource library that needs no account.
+
 
 ## Contact
 
